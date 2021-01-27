@@ -1,0 +1,41 @@
+#title{
+    color:white;
+    background-color: darkred;
+    border-radius: 15px;
+    padding: 12px;
+}
+#navtxt_wrapper{
+    width: 190px;
+    background-color:darkturquoise;
+    margin: 20px;
+    padding: 20px;
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 15px;
+
+}
+#navtxt{
+    color: rgb(33, 133, 167);
+}
+#main_wrap{
+    background-color: rgb(23, 30, 71);
+    padding: 10px;
+    width: auto;
+}
+#titlebod{
+    background-color: rgb(8, 7, 22);
+    color: white;
+    display: inline-block;
+    vertical-align: top;
+    width: 550px;
+    padding: 25px;
+    border-radius: 25px;
+    margin-top: 20px;
+}
+#useo_wrap{
+    background-color: dimgray;
+    color: white;
+    border-radius: 10px;
+    padding: 1px;
+    margin-top: 15px;
+}
